@@ -1,5 +1,5 @@
 ﻿# mazeexplorer
-# mazeexplorer
+
 Maze Explorer and Solver Visualizer
 
 This project is a dynamic, grid-based application built using Python and Pygame. It functions as both an interactive game and an algorithmic visualization tool, allowing users to compare their problem-solving approach against deterministic shortest-path algorithms.
@@ -57,4 +57,5 @@ The game is a spatial reasoning challenge. Once the player reaches the goal, a r
     Optimal Path (BFS): Minimum number of steps possible.
     Your Path: Steps taken by the player.
     DFS Path: A longer, non-optimal comparison route.
+
 
